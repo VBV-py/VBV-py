@@ -10,16 +10,15 @@
   <img src="https://komarev.com/ghpvc/?username=VBV-py&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
----
+
 
 ## 💬 About Me
-
 - 💻 Ask me about **Data Analytics, Machine Learning**
 - 📫 Reach me at **-@gmail.com**
 - 🌐 Portfolio: ""
 
 
----
+
 <!--
 ## 🔗 Social Links
 
@@ -50,7 +49,7 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,c,mysql,git,sklearn,aws,react,anaconda,git,github,pycharm,vercel" />
 </p>
 
----
+
 ## 🏆 Achievements
 
 <!--
@@ -68,7 +67,7 @@
   <img src="https://img.shields.io/badge/🏗%20Full%20Stack-Engineer-blue?style=for-the-badge"/>
 </p>
 
----
+
 
 ## 📊 GitHub Statistics
 
@@ -81,7 +80,7 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VBV-py&layout=compact&theme=tokyonight"/>
 </p> -->
 
----
+
 
 ## 📈 Contribution Analytics Dashboard
 
@@ -99,7 +98,7 @@
   <img width="48%" height="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=VBV-py&theme=tokyonight&utcOffset=5.5"/>
 </p>
 
----
+
 
 ## ⚡ Activity Graph
 
@@ -107,7 +106,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=VBV-py&theme=tokyo-night&hide_border=true"/>
 </p>
 
----
+
 
 ## ☕ Support Me
 
@@ -117,7 +116,6 @@
   </a>
 </p>
 
----
 
 <p align="center">
   ⭐ If you like my work, consider starring my repositories!
