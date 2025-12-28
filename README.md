@@ -1,6 +1,6 @@
 <!-- ===================== BANNER ===================== -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/your-username/your-username/main/assets/banner.png" alt="banner" />
+  <img src="https://raw.githubusercontent.com/VBV-py/VBV-py/main/assets/banner.png" alt="banner" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Vaibhav Singh</h1>
