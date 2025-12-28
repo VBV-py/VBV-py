@@ -53,10 +53,12 @@
 ---
 ## 🏆 Achievements
 
+<!--
 <p align="center">
-  <!-- GitHub Achievements -->
+  
   <img src="https://github-profile-trophy.vercel.app/?username=VBV-py&theme=tokyonight&no-frame=true&row=1&column=7" />
 </p>
+-->
 
 <p align="center">
   <!-- Individual Achievement Badges -->
@@ -65,18 +67,19 @@
   <img src="https://img.shields.io/badge/🧠%20Problem%20Solver-DSA-orange?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/🏗%20Full%20Stack-Engineer-blue?style=for-the-badge"/>
 </p>
+
 ---
 
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=VBV-py&show_icons=true&theme=tokyonight"/>
+  <!-- <img width="48%" src="https://github-readme-stats.vercel.app/api?username=VBV-py&show_icons=true&theme=tokyonight"/> -->
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=VBV-py&theme=tokyonight"/>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VBV-py&layout=compact&theme=tokyonight"/>
-</p>
+</p> -->
 
 ---
 
@@ -87,13 +90,13 @@
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VBV-py&theme=tokyonight"/>
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=VBV-py&theme=tokyonight"/>
+  <img width="48%" height="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VBV-py&theme=tokyonight"/>
+  <img width="48%" height="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=VBV-py&theme=tokyonight"/>
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=VBV-py&theme=tokyonight"/>
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=VBV-py&theme=tokyonight&utcOffset=5.5"/>
+  <img width="48%" height="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=VBV-py&theme=tokyonight"/>
+  <img width="48%" height="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=VBV-py&theme=tokyonight&utcOffset=5.5"/>
 </p>
 
 ---
@@ -109,7 +112,7 @@
 ## ☕ Support Me
 
 <p align="center">
-  <a href="https://www.buymeacoffee.com/VBV-py">
+  <a href="https://buymeacoffee.com/vaibhav8587">
     <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/>
   </a>
 </p>
