@@ -1,7 +1,11 @@
 <!-- ===================== BANNER ===================== -->
-<p align="center">
+<!-- <p align="center">
   <img src="https://raw.githubusercontent.com/VBV-py/VBV-py/main/assets/banner.png" alt="banner" />
+</p> -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&text=Vaibhav%20Singh&desc=Data%20Analytics%20|%20Machine%20Learning&fontColor=ffffff&fontSize=48&descSize=18&animation=fadeIn" />
 </p>
+
 
 <h1 align="center">Hi 👋, I'm Vaibhav Singh</h1>
 <h3 align="center"> Data Analytics | Machine Learning </h3>
