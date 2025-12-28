@@ -1,14 +1,10 @@
-<!-- ===================== BANNER ===================== -->
-<!-- <p align="center">
-  <img src="https://raw.githubusercontent.com/VBV-py/VBV-py/main/assets/banner.png" alt="banner" />
-</p> -->
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&text=Vaibhav%20Singh&desc=Data%20Analytics%20|%20Machine%20Learning&fontColor=ffffff&fontSize=48&descSize=18&animation=fadeIn" />
 </p>
 
 
-<h1 align="center">Hi 👋, I'm Vaibhav Singh</h1>
-<h3 align="center"> Data Analytics | Machine Learning </h3>
+
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=VBV-py&label=Profile%20Views&color=0e75b6&style=flat" />
@@ -56,12 +52,6 @@
 
 ## 🏆 Achievements
 
-<!--
-<p align="center">
-  
-  <img src="https://github-profile-trophy.vercel.app/?username=VBV-py&theme=tokyonight&no-frame=true&row=1&column=7" />
-</p>
--->
 
 <p align="center">
   <!-- Individual Achievement Badges -->
@@ -76,13 +66,9 @@
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <!-- <img width="48%" src="https://github-readme-stats.vercel.app/api?username=VBV-py&show_icons=true&theme=tokyonight"/> -->
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=VBV-py&theme=tokyonight"/>
 </p>
 
-<!-- <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VBV-py&layout=compact&theme=tokyonight"/>
-</p> -->
 
 
 
