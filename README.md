@@ -44,10 +44,10 @@
 ---
 -->
 
-## 🛠 Languages & Tools
+## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,c,mysql,git,numpy,pandas,matplotlib,sklearn,aws,react,anaconda,git,github,pycharm,vercel" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,c,mysql,git,sklearn,aws,react,anaconda,git,github,pycharm,vercel" />
 </p>
 
 ---
@@ -55,7 +55,7 @@
 
 <p align="center">
   <!-- GitHub Achievements -->
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=VBV-py&theme=tokyonight&no-frame=true&row=1&column=7" />
 </p>
 
 <p align="center">
