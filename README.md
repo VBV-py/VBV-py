@@ -6,7 +6,7 @@
 <h1 align="center">Hi 👋, I'm Vaibhav Singh</h1>
 <h3 align="center"> Data Analytics | Machine Learning </h3>
 
-<p align="center">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=VBV-py&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
@@ -14,13 +14,13 @@
 
 ## 💬 About Me
 
-- 💻 Ask me about **Java, Spring Boot, Angular**
-- 📫 Reach me at **abc@gmail.com**
-- 🌐 Portfolio: https://VBV-py.github.io
-- 📄 Resume: https://YOUR_LINK/resume.pdf
+- 💻 Ask me about **Data Analytics, Machine Learning**
+- 📫 Reach me at **-@gmail.com**
+- 🌐 Portfolio: ""
+
 
 ---
-
+<!--
 ## 🔗 Social Links
 
 <p align="center">
@@ -42,11 +42,12 @@
 </p>
 
 ---
+-->
 
 ## 🛠 Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,angular,js,ts,python,c,html,css,bootstrap,mongodb,mysql,git,linux,docker" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,c,mysql,git,numpy,pandas,matplotlib,sklearn,aws,react,anaconda,git,github,pycharm,vercel" />
 </p>
 
 ---
