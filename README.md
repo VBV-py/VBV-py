@@ -50,6 +50,21 @@
 </p>
 
 ---
+## 🏆 Achievements
+
+<p align="center">
+  <!-- GitHub Achievements -->
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=7" />
+</p>
+
+<p align="center">
+  <!-- Individual Achievement Badges -->
+  <img src="https://img.shields.io/badge/🚀%20Quick%20Learner-Developer-blueviolet?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🔥%20Consistent%20Contributor-Open%20Source-success?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🧠%20Problem%20Solver-DSA-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🏗%20Full%20Stack-Engineer-blue?style=for-the-badge"/>
+</p>
+---
 
 ## 📊 GitHub Statistics
 
