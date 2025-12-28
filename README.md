@@ -59,7 +59,7 @@
   <img src="https://img.shields.io/badge/🚀%20Quick%20Learner-Developer-blueviolet?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/🔥%20Consistent%20Contributor-Open%20Source-success?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/🧠%20Problem%20Solver-DSA-orange?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/🏗%20Full%20Stack-Engineer-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🏗%20Data%20Science-Engineer-blue?style=for-the-badge"/>
 </p>
 
 
