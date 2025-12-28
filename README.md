@@ -89,13 +89,13 @@
 </p>
 
 <p align="center">
-  <img width="48%" height="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VBV-py&theme=tokyonight"/>
-  <img width="48%" height="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=VBV-py&theme=tokyonight"/>
+  <img width="35%" height="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VBV-py&theme=tokyonight"/>
+  <img width="35%" height="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=VBV-py&theme=tokyonight"/>
 </p>
 
 <p align="center">
-  <img width="48%" height="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=VBV-py&theme=tokyonight"/>
-  <img width="48%" height="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=VBV-py&theme=tokyonight&utcOffset=5.5"/>
+  <img width="35%" height="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=VBV-py&theme=tokyonight"/>
+  <img width="35%" height="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=VBV-py&theme=tokyonight&utcOffset=5.5"/>
 </p>
 
 
