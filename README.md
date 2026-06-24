@@ -15,10 +15,11 @@
 
 
 ## 💬 About Me
-- 💻 Ask me about **Data Analytics, Machine Learning**
+- 💻 Ask me about **AI, Data Analytics, Machine Learning**
+<!--
 - 📫 Reach me at **-@gmail.com**
 - 🌐 Portfolio: ""
-
+-->
 
 
 <!--
