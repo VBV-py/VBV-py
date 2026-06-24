@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&text=Vaibhav%20Singh&desc=%20AI/ML%20 | Data%20Science%20 &fontColor=ffffff&fontSize=48&descSize=18&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&text=Vaibhav%20Singh&desc=AI/ML%20 | Data%20Science%20 &fontColor=ffffff&fontSize=48&descSize=18&animation=fadeIn" />
 </p>
 
 
